@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="netty-4.1.29">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/netty-4.1.29.Final" recursive="false" type="SOURCES" />
+  </library>
+</component>
